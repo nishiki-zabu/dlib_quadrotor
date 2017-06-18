@@ -1,6 +1,6 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
-u"""dlibによる顔画像検出."""
+"""dlibによる顔画像検出."""
 import cv2
 import dlib
 
